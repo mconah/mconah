@@ -1,8 +1,8 @@
-### I am Mmaduabuchi Camillus Onah
-## Deep Learning Engineer, Python Expert, Web developer, Rust and JavaScript learner.
-## I am also an intern at Quantum and Generative AI Services LTD where I work as a Research Intern (AI Applications)
+## I am Mmaduabuchi Camillus Onah
+### Deep Learning Engineer, Python Expert, Web developer, Rust and JavaScript learner.
+### I am also an intern at Quantum and Generative AI Services LTD where I work as a Research Intern (AI Applications)
 
-# My core interest is in AGI and I strive to ensure African inclusion in the AI revolution.
+### My core interest is in AGI and I strive to ensure African inclusion in the AI revolution.
 
 This is still the beginning of my journey. 
 What sets me aside is my readiness to learn, experiment and to solve problems.
