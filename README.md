@@ -1,4 +1,4 @@
-## I am Mmaduabuchi Camillus Onah
+## I am Mmaduabuchi (Camillus) Onah
 #### Deep Learning Engineer and Web developer with expertise in Python and JavaScript.
 ###### I am also an intern at Quantum and Generative AI Services LTD where I work as a Research Intern (AI Applications)
 
