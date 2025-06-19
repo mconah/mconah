@@ -1,13 +1,17 @@
-## I am Mmaduabuchi (Camillus) Onah
+# I am Mmaduabuchi (Camillus) Onah
 #### Deep Learning Engineer and Web developer with expertise in Python and JavaScript.
-###### I am also an intern at Quantum and Generative AI Services LTD where I work as a Research Intern (AI Applications)
+###### Founder/CEO of [Lexrunit Limited](https://www.lexrunit.com), CEO of [Nilphyx](https://www.nilphyx.tech), and Web/IT Director at [Free Future Foundation](https://wwww.freefuturefoundation.org)
 
 ##### My core interest is in AGI and I strive to ensure African inclusion in the AI revolution.
 
 This is still the beginning of my journey. <br>
 What sets me aside is my readiness to learn, experiment and to solve problems.
 
+I am open to work on interesting projects, I would love to learn, grow and experiment. You can check out my portfolio [here](https://buchi.codes)
 
+⚡ Fun fact:
+* I love food more than coding. 
+* But I don't code so I can feed. 
 <!--
 **mconah/mconah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
