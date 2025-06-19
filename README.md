@@ -1,6 +1,6 @@
 # I am Mmaduabuchi (Camillus) Onah
 #### Deep Learning Engineer and Web developer with expertise in Python and JavaScript.
-###### Founder/CEO of [Lexrunit Limited](https://www.lexrunit.com), CEO of [Nilphyx](https://www.nilphyx.tech), and Web/IT Director at [Free Future Foundation](https://wwww.freefuturefoundation.org)
+###### Founder/CEO of [Lexrunit Limited](https://www.lexrunit.com), CEO of [Nilphyx](https://www.nilphyx.tech), and Web/IT Director at [Free Future Foundation](https://www.freefuturefoundation.org)
 
 ##### My core interest is in AGI and I strive to ensure African inclusion in the AI revolution.
 
