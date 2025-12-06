@@ -1,17 +1,16 @@
-# I am Mmaduabuchi (Camillus) Onah
-#### Deep Learning Engineer and Web developer with expertise in Python and JavaScript.
-###### Founder/CEO of [Lexrunit Limited](https://www.lexrunit.com), CEO of [Nilphyx](https://www.nilphyx.tech), and Web/IT Director at [Free Future Foundation](https://www.freefuturefoundation.org)
+# I am Mmaduabuchi Onah
+#### Software and AI Engineer with expertise in Python and JavaScript.
+###### Founder/CEO of [Lexrunit Limited](https://www.lexrunit.com) and Web/IT Director at [Free Future Foundation](https://www.freefuturefoundation.org)
 
-##### My core interest is in AGI and I strive to ensure African inclusion in the AI revolution.
+##### My core interest is in AI in healthcare. 
 
 This is still the beginning of my journey. <br>
-What sets me aside is my readiness to learn, experiment and to solve problems.
+I want to learn, experiment and to solve problems.
 
-I am open to work on interesting projects, I would love to learn, grow and experiment. You can check out my portfolio [here](https://buchi.codes)
+I am open to work on boring projects. 
 
 ⚡ Fun fact:
-* I love food more than coding. 
-* But I don't code so I can feed. 
+* Nothing is fun except . . . 
 <!--
 **mconah/mconah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
