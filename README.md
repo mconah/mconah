@@ -1,6 +1,8 @@
-# I am Mmaduabuchi Onah
-#### Software and AI Engineer with expertise in Python and JavaScript.
-###### Founder/CEO of [Lexrunit Limited](https://www.lexrunit.com) and Web/IT Director at [Free Future Foundation](https://www.freefuturefoundation.org)
+# Mmaduabuchi Onah
+#### AI/CV Research Enthusiast, with key interest in medical use cases. I've built a few dozens of websites and python backends. 
+###### Computer and Statistics student at the University of Nigeria, Nsukka and Web/IT Director at [Free Future Foundation](https://www.freefuturefoundation.org)
+
+From February 2026, following my mentorship under Ms. Gianna Torpey a PhD student at MIT, I'd convert [my blog](https://www.thetechies.blog) from a tools/workflow website to focus on AI/CV especially with focus on it's application in medicine. 
 
 ##### My core interest is in AI in healthcare. 
 
@@ -10,7 +12,9 @@ I want to learn, experiment and to solve problems.
 I am open to work on boring projects. 
 
 ⚡ Fun fact:
-* Nothing is fun except . . . 
+* Nothing is fun except . . . *
+
+  You can checkout my portfolio website [buchis.site](https://www.buchis.site) 
 <!--
 **mconah/mconah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
